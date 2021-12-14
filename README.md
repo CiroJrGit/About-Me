@@ -1,2 +1,6 @@
 # Sobre
- Primeiro repositório e minha apresentação
+--Hello-world--
+
+--Grduando em Sistemas de Informação--
+
+
