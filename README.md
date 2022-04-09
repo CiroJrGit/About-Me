@@ -1,5 +1,5 @@
-# Sobre
---Hello-world--
---Graduando em Sistemas de Informação na UNIRIO--
---Atualmente no 6º período--
---Dev Web frontend/fullstack--
+# About Me
+--Hello-world! 
+--Graduando em Sistemas de Informação pela UNIRIO 
+--Atualmente no 6º período 
+--Front-end web Developer
